@@ -1,6 +1,6 @@
 <!-- Typing animation header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Bilal+AshrafAli;Frontend+Web+Specialist;Angular+%2F+Next.js+%2F+React;+%7C+Team+Collaborator;Pixel+Perfect+Designs+%7C+Clean+Code+Lover" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Bilal+AshrafAli;Frontend+Web+Specialist;Angular+%2F+Next.js+%2F+React;+%7CPixel+Perfect+Designs+%7C+Clean+Code+Lover" alt="Typing animation" />
 </h1>
 
 <p align="center">
